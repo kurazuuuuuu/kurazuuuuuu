@@ -2,11 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=kurazuuuuuu" />
 </div>
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kurazuuuuuu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/kawarimidoll/typograssy)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32F715&width=435&lines=Hi%2C+I'm+kurazu.)](https://git.io/typing-svg)
 
-<!-- 2. プロフィールや連絡先を変更 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32F715&width=435&lines=Hi%2C+I'm+kurazu.)](https://git.io/typing-svg)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kurazuuuuuu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kurazuuuuuu)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 - 🎓️ ２９卒情報専門学生
 - 🔰 プログラミング初学者
