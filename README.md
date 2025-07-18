@@ -3,8 +3,9 @@
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32F715&width=435&lines=Hello!+I'm+kurazu!">
+
 <a href="https://krz-tech.net">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32F715&width=435&lines=---> https://krz-tech.net">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32F715&width=435&lines=---%3E%20https%3A%2F%2Fkrz-tech.net">
 </a>
 
 <img src="img/readme-vrc01.jpg">
