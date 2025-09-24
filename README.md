@@ -43,8 +43,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kurazuuuuuu&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # | Activity
-- Progateハッカソン powered by AWS 🏆️優秀賞＆AWS賞 (2025-07)
-- ハックツハッカソン ~イクチオカップ~ 🏆️優秀賞 (2025-09)
+- Progateハッカソン powered by AWS 🏆️優秀賞＆AWS賞 (2025-07) [作品](https://topaz.dev/projects/ff454ddba004e991b867)
+- ハックツハッカソン 〜イクチオカップ〜 🏆️優秀賞 (2025-09) [作品](https://topaz.dev/projects/8b2807a4a9c0881464b9)
 
 # | SNS
 - [Twitter](https://twitter.com/kurazu_vrc)
