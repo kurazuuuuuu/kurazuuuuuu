@@ -28,12 +28,12 @@
 ## Skills
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+	<br>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/></code>
 </div>
 
 <br>
@@ -41,3 +41,11 @@
 # | Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurazuuuuuu&show_icons=true&theme=dark)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kurazuuuuuu&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# | Activity
+- Progateハッカソン powered by AWS 🏆️優秀賞＆AWS賞 (2025-07)
+- ハックツハッカソン ~イクチオカップ~ 🏆️優秀賞 (2025-09)
+
+# | SNS
+- [Twitter](https://twitter.com/kurazu_vrc)
+- [Zenn](https://zenn.dev/krz_tech)
