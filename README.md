@@ -46,6 +46,8 @@
 - Progateハッカソン powered by AWS 🏆️優秀賞＆AWS賞 (2025-07) [作品](https://topaz.dev/projects/ff454ddba004e991b867)
 - ハックツハッカソン 〜イクチオカップ〜 🏆️優秀賞 (2025-09) [作品](https://topaz.dev/projects/8b2807a4a9c0881464b9)
 - ハックツハッカソン 〜プテラカップ〜 特別賞 (2025-12) [作品](https://topaz.dev/projects/a638a35dba0e7df4048b)
+- ハックツハッカソン 〜Nulabカップ〜 🏆最優秀賞 (2026-02) [作品](https://topaz.dev/projects/61e4cdc624f69aa00908)
+
 
 # | SNS
 - [Twitter](https://twitter.com/kurazu_vrc)
